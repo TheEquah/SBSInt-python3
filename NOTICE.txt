@@ -1,0 +1,2 @@
+SBSInt [Python 3]
+Copyright 12019 HE Roger "Equah" Hürzeler
